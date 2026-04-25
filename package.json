@@ -1,0 +1,10 @@
+{
+  "name": "resilient-logistics",
+  "version": "1.0.0",
+  "description": "Resilient Logistics – Smart Supply Chain Dashboard",
+  "scripts": {
+    "build": "echo 'Static site, no build needed'",
+    "dev": "npx serve ."
+  },
+  "keywords": ["logistics", "supply-chain", "dashboard"]
+}
